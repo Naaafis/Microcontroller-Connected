@@ -1,4 +1,4 @@
-approaching# Cruise Control
+# Cruise Control
 Authors: Daniel Shimon, Nafis Abeer, Justin Lam
 
 Date: 2021-04-29
