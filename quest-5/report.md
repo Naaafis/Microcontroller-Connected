@@ -96,20 +96,14 @@ Depending on what "adaptive" means, cruise control behavior could be altered sim
 
 ## Sketches and Photos
 
-Circuit:
-![Circuit Image](./images/Circuit.png)
-
 Web Server:
-![Web Server Image](./images/Web_Server_Screenshot.png)
+![Web Server Image](./images/website.png)
 
-Sending Votes:
-![sending votes](./images/vote_blue.png)
+Live feed:
+![Camera](./images/camera.png)
 
-Heartbeats being processed:
-![process heartbeats](./images/heartbeats.png)
-
-Votes being processed:
-![process votes](./images/voting.png)
+Buggy Circuit:
+![Buggy](./images/buggy.png)
 
 ## Supporting Artifacts
 https://www.youtube.com/watch?v=39ZhzLlYEgI
