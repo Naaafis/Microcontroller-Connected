@@ -1,4 +1,5 @@
-# Hurricane Box with Remote Access
+# Leader Election
+
 Authors: Daniel Shimon, Nafis Abeer, Justin Lam
 
 Date: 2021-04-13
